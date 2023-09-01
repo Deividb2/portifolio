@@ -53,6 +53,7 @@ export default {
         'js': 'url(src/assets/imgs/js.png)',
         'react': 'url(src/assets/imgs/react.png)',
         'tailwind': 'url(src/assets/imgs/tailwind.png)',
+        'academia': 'url(src/assets/imgs/fitness_gym.png)',
         'barbearia': 'url(src/assets/imgs/barbearia.png)',
       }
     },
